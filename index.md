@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+### 铛铛！这里是網線P（NetlanP.）的说！
 
-You can use the [editor on GitHub](https://github.com/NetlanP/netlanp.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+欢迎来到我的主页哈！ （~ Φ ω Φ ~）
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+#### 个人信息
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+·宁波大学 经济类（暂未分流） 大一新生
 
-```markdown
-Syntax highlighted code block
+·性别 男
 
-# Header 1
-## Header 2
-### Header 3
+·常住地 上海
 
-- Bulleted
-- List
+·音游人
 
-1. Numbered
-2. List
+·目前玩CytusII Arcaea(ptt 9.62)**
 
-**Bold** and _Italic_ and `Code` text
+**·商业合作邮箱** scarletmon@qq.com(请注明来意）
 
-[Link](url) and ![Image](src)
-```
+·目标是分流到金融工程！
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**·兴趣爱好：**视频剪辑与后期处理 编曲（还没学会） 写小说（这个算吗？）
 
-### Jekyll Themes
+**·目前开坑：**霍格沃茨的布偶店店长（起点小说网）
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NetlanP/netlanp.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**听说这样子可以写宽体字**
 
-### Support or Contact
+**居然是真的！**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Github yyds！**
